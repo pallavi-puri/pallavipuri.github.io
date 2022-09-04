@@ -35,7 +35,7 @@ footer:
   copyright: Pallavi Puri
   location: India
   social: Around the Web
-  credits: Credits
+  credits: Art work
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -50,7 +50,7 @@ address:
   - line: India
 
 # Credits content
-credits: ''
+credits: 'Madhubani, Lippan'
 
 # Build settings
 markdown: kramdown
