@@ -3,8 +3,8 @@ title: Pallavi Puri
 email: pallavipuri.mail@gmail.com
 url: https://github.com/pallavi-puri/pallavipuri.github.io
 description: "Home maker with a sharp interests and skills on various drawing, painting and art works!"
-keywords: "Art, Craft, painting"
-skills: "Art, Craft and painting"
+keywords: "Art, Craft, Drawing and Painting"
+skills: "Art, Craftm Drawing and Painting"
 meta_author: Pallavi Puri
 
 # Google webmaster tools
@@ -50,7 +50,7 @@ address:
   - line: India
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: ''
 
 # Build settings
 markdown: kramdown
